@@ -1,7 +1,9 @@
 # Attention-Based Graph Neural Network for Survival Prediction
 
 **Graph Attention Network (GATv2) Framework for Cancer Survival Prediction from Single-Cell Spatial Proteomics Data**
-
+- **Course : CSE 4889	Machine Learning**
+- **United Internation University**
+- **Fall 2025**
 ---
 
 ## Overview
